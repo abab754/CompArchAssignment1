@@ -18,3 +18,7 @@ Encodes a string by shifting each letter by 13 characters.
 
 rpn.c:
 Reverse Polish Notation Calculator which implements a stack data structure that takes in numbers and the desired operation and outputs the solution. Example: 6 3 / 2 + results in (6/3)+2 = 4
+
+
+sorta.c:
+ASCII sorts any number of strings inputted.
