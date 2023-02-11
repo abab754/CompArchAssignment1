@@ -1,5 +1,20 @@
 # CompArchAssignment1
 
-bst.c - A program that constructs a bst with commands passe sin through a file or through terminal. Insert, Search, and Delete methods to maintain the structure of the bst.
-list.c - Program that maintains an ordered linked list based on instructions from a file or through terminal. Insert, Delete, and Contains methods.
-mexp.c - Program that takes in values to create a matrix and then multiplies itself by a specified number amount of times. 
+Bst.c:
+C implementation of a Binary Search Tree, with the following functionalities:
+
+Printing, Node Creation, Insertion, Deletion, Search
+
+list.c:
+C implementation of a Linked List, with the following functionalities:
+
+Printing, Insertion, Deletion, Search
+
+mexp.c:
+Reads a matrix through a file, and uses linear algebra principles to raise a matrix by a given power (example: raises given a 3x3 matrix to the 4th power)
+
+rot13.c:
+Encodes a string by shifting each letter by 13 characters. 
+
+rpn.c:
+Reverse Polish Notation Calculator which implements a stack data structure that takes in numbers and the desired operation and outputs the solution. Example: 6 3 / 2 + results in (6/3)+2 = 4
